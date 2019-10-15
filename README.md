@@ -7,6 +7,8 @@ Each word is counted as one unique dimension, and by interacting with other word
 
 ## Program Run v 0.0.0
 [![video no availabe](https://img.youtube.com/vi/a3yN6CcRDr8/0.jpg)](https://youtu.be/a3yN6CcRDr8)
+
+
 **input**: dear bear I will like to eat some candy
 **output_1**: something had been hanging out of smell, you are dangerous
 **output_2**: filled with its fiery breath and Gretel to unfold
