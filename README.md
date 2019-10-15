@@ -10,6 +10,9 @@ Each word is counted as one unique dimension, and by interacting with other word
 
 
 **input**: dear bear I will like to eat some candy
+
 **output_1**: something had been hanging out of smell, you are dangerous
+
 **output_2**: filled with its fiery breath and Gretel to unfold
+
 **output_3**: she felt like a gingerbread door; and apologized for saying mean things sometime, like her idea
